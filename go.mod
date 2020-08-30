@@ -1,4 +1,4 @@
-module github.com/IAmStoxe/urlgrab
+module github.com/schniggie/urlgrab
 
 go 1.14
 

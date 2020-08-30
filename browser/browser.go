@@ -3,7 +3,7 @@ package browser
 import (
 	"context"
 	"github.com/chromedp/chromedp"
-	"github.com/iamstoxe/urlgrab/utilities"
+	"github.com/schniggie/urlgrab/utilities"
 )
 
 var GlobalContext context.Context
