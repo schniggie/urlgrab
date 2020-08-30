@@ -1,4 +1,4 @@
-package github.com/schniggie/urlgrab/utilities
+package utilities
 
 import (
 	"bufio"

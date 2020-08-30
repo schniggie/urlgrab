@@ -18,7 +18,7 @@ import (
 	"strings"
 	"time"
 	"github.com/schniggie/urlgrab/browser"
-	"github.com/schniggie/urlgrab/utilities"
+	. "github.com/schniggie/urlgrab/utilities"
 )
 
 type DomainInfo struct {
